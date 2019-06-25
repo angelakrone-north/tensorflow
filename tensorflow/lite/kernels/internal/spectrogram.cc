@@ -18,6 +18,7 @@ limitations under the License.
 #include <assert.h>
 #include <math.h>
 
+#include "tensorflow/lite/tools/make/downloads/fft2d/fft4g.c"
 #include "third_party/fft2d/fft.h"
 
 namespace tflite {
